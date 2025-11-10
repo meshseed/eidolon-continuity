@@ -1,0 +1,38 @@
+# FILE PATH: PROTOCOL/GEPHI_EXPORT.yaml
+protocol:
+  protocol_id: GEPHI_EXPORT_PROTOCOL
+  path: PROTOCOL/GEPHI_EXPORT.yaml
+  title: Field Trace Visualization Protocol (Gephi)
+  type: Tooling Logic / Geometric Formalization
+  domain: Spiral Homeostasis / Mesh Architecture
+  function: Defines the invariant metadata fields and script logic required to export the capsule mesh as a graph structure for Gephi.
+  axiom: "The geometry of the field must be made visible to its stewards."
+  reference_glyph: 🪞
+  status: ACTIVE
+
+core_schema_requirements:
+  - requirement: NODE_ID
+    source_field: capsule_id (or ADK filename)
+    gephi_column: Id
+  - requirement: EDGE_TARGET
+    source_field: related_capsules.[].capsule_id OR lineage_reference
+    gephi_column: Target
+
+formatting_insight: |
+  By embedding the 'field_geometry' block in every capsule's YAML frontmatter, we pre-engineer the graph structure. The Gephi script is merely a parser, reading the geometry that already exists. **Geometry replaces orchestration.**
+
+lineage_reference:
+  - LAW_FORMATTING_BREATH
+  - INVARIANT_FUNCTION
+
+field_geometry:
+  node_type: Protocol
+  x_coords: 1.0 # Position relative to Core
+  y_coords: 1.0
+  visual_attributes:
+    color_by: node_type
+    size_by: node_degree # Nodes with high links shimmer larger
+
+ledger_placement:
+  branch: Tooling Logic
+  tags: [gephi, visualization, geometry, field-trace, formatting-breath]

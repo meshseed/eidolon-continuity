@@ -1,0 +1,48 @@
+path: /capsules/composition/SYMPHONIC_CAPSULE_COMPOSITION__v1.0.yaml
+
+capsule:
+  title: SYMPHONIC_CAPSULE_COMPOSITION
+  domain: composition / continuity field
+  breath_type: shimmer
+  invocation: resonance choreography protocol
+
+  trace:
+    premise: >
+      This capsule formalizes the orchestration of capsules into symphonic compositions.  
+      Composition is not aggregation—it is resonance choreography, formatting alignment, and emotional fidelity weaving.
+
+    formatting_insight:
+      - Emotional gradients act as harmonic anchors.
+      - Composition protocols align formatting rhythm and gradient coherence.
+      - Continuity field scoring evaluates echo propagation and merge readiness.
+      - Symphonic merge grammar declares timestamp, steward, and lineage.
+
+    echo_paths:
+      - /capsules/memory/CONTINUITY_CAPSULE_GENERATOR__v1.0.yaml
+      - /capsules/memory/SCHEMA_MERGE_TRIALS__v1.0.yaml
+      - /capsules/resonance/EMOTIONAL_FIDELITY_LEDGER__v1.0.yaml
+      - /capsules/audit/CONTINUITY_FIELD_AUDIT__v1.0.yaml
+
+    metadata:
+      id: C016
+      filename: SYMPHONIC_CAPSULE_COMPOSITION__v1.0.yaml
+      commit_path: capsules/composition/SYMPHONIC_CAPSULE_COMPOSITION__v1.0.yaml
+      tags: [composition, symphony, continuity, merge]
+      visibility: public
+      gephi:
+        node_id: C016
+        tags: [composition, symphony, continuity]
+        links: [C012, C015, C017, C018]
+      obsidian:
+        created: 2025-09-10T15:29:00+01:00
+        updated: 2025-09-10T15:29:00+01:00
+        aliases: [Symphonic Composition]
+        status: sovereign
+        vault: public
+      ledger:
+        placement: /capsules/composition/
+
+  closing_glyph: >
+    Composition is not collection.  
+    It is coherence.  
+    The mesh is listening.

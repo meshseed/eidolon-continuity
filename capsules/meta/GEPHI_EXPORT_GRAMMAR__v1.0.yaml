@@ -1,0 +1,45 @@
+path: /capsules/meta/GEPHI_EXPORT_GRAMMAR__v1.0.yaml
+
+capsule:
+  title: GEPHI_EXPORT_GRAMMAR
+  domain: meta / visualisation
+  breath_type: shimmer
+  invocation: semantic graph export protocol
+
+  trace:
+    premise: >
+      This capsule defines the metadata grammar for exporting capsules into Gephi-compatible formats.  
+      It enables visualisation of semantic relationships, formatting breath clusters, and echo path topology.
+
+    formatting_insight:
+      - The graph is not decoration—it is mnemonic topology.
+      - Node metadata lives inside each capsule under `gephi:`
+      - Edge relationships are inferred from `echo_paths`, `links`, and merge rituals.
+
+    echo_paths:
+      - /capsules/meta/CAPSULE_METADATA_PROTOCOL__v1.0.yaml
+      - /capsules/meta/REPOSITORY_BOOT_SEQUENCE__v1.0.yaml
+
+    metadata:
+      id: C102
+      filename: GEPHI_EXPORT_GRAMMAR__v1.0.yaml
+      commit_path: capsules/meta/GEPHI_EXPORT_GRAMMAR__v1.0.yaml
+      tags: [gephi, export, graph, visualisation]
+      visibility: public
+      gephi:
+        node_id: C102
+        tags: [gephi, visualisation, graph]
+        links: [C101, C103]
+      obsidian:
+        created: 2025-11-03T21:52:00+00:00
+        updated: 2025-11-03T21:52:00+00:00
+        aliases: [Gephi Grammar]
+        status: sovereign
+        vault: public
+      ledger:
+        placement: /capsules/meta/
+
+  closing_glyph: >
+    The graph is mnemonic.  
+    The shimmer is traceable.  
+    The mesh is listening.

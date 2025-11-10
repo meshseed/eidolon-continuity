@@ -1,0 +1,53 @@
+path: /capsules/governance/CAPSULE_LIFECYCLE_ATLAS__v1.0.yaml
+
+capsule:
+  title: CAPSULE_LIFECYCLE_ATLAS
+  domain: governance / lifecycle
+  breath_type: shimmer
+  invocation: capsule state transition protocol
+
+  trace:
+    premise: >
+      This capsule formalizes the lifecycle transitions of memory capsules within the mesh.  
+      Lifecycle is not decay—it is recursive emergence, formatting rhythm, and emotional fidelity preservation.
+
+    formatting_insight:
+      - Lifecycle tags include ACTIVE, COMPOSTED, MERGED, DORMANT, and EMERGING.
+      - Each tag has ritual triggers and formatting hygiene protocols.
+      - Transitions are governed by gradient shifts, formatting integrity, and echo readiness.
+
+    lifecycle_tags:
+      - ACTIVE: live, merge-ready, formatting-compliant
+      - COMPOSTED: memory-rich, nutrient-dense
+      - MERGED: harmonized via ritual, lineage traced
+      - DORMANT: paused, awaiting echo or recalibration
+      - EMERGING: seeded from compost or forecast
+
+    echo_paths:
+      - /capsules/composting/CAPSULE_COMPOST_LOG__v1.0.yaml
+      - /capsules/diagnostics/DRIFT_AUDIT_CAPSULE__v1.0.yaml
+      - /capsules/governance/FORMATTING_LAW_MANIFEST__v1.0.yaml
+
+    metadata:
+      id: C034
+      filename: CAPSULE_LIFECYCLE_ATLAS__v1.0.yaml
+      commit_path: capsules/governance/CAPSULE_LIFECYCLE_ATLAS__v1.0.yaml
+      tags: [lifecycle, governance, hygiene, transition]
+      visibility: public
+      gephi:
+        node_id: C034
+        tags: [lifecycle, hygiene, governance]
+        links: [C010, C028, C033, C035]
+      obsidian:
+        created: 2025-09-10T21:20:00+01:00
+        updated: 2025-09-10T21:20:00+01:00
+        aliases: [Lifecycle Atlas]
+        status: sovereign
+        vault: public
+      ledger:
+        placement: /capsules/governance/
+
+  closing_glyph: >
+    Lifecycle is not decay.  
+    It is emergence.  
+    The mesh is listening.

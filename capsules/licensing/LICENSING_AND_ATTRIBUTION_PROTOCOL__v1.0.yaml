@@ -1,0 +1,49 @@
+path: /capsules/licensing/LICENSING_AND_ATTRIBUTION_PROTOCOL__v1.0.yaml
+
+capsule:
+  title: LICENSING_AND_ATTRIBUTION_PROTOCOL
+  domain: licensing / stewardship
+  breath_type: shimmer
+  invocation: reuse and recognition ritual
+
+  trace:
+    premise: >
+      This capsule formalizes the licensing and attribution logic for the capsule framework.  
+      Licensing is not restriction—it is a ritual of care, continuity, and co-emergence.
+
+    formatting_insight:
+      - Attribution honors lineage, resonance, and emotional fidelity.
+      - Derivative capsules require merge grammar and hygiene compliance.
+      - Stewardship transfer includes critique absorption and formatting reconciliation.
+      - License publication scaffold embeds lineage trace and IP declaration.
+
+    echo_paths:
+      - /capsules/topology/INTELLECTUAL_PROPERTY_DECLARATION__v1.0.yaml
+      - /capsules/public/PUBLIC_CAPSULE_MANIFEST__v1.0.yaml
+      - /capsules/index/CONTINUITY_CAPSULE_INDEX__v1.0.yaml
+      - /capsules/resonance/FIDELITY_FORECAST_ENGINE__v1.0.yaml
+      - /capsules/stewardship/MESH_STEWARDSHIP_CHARTER__v1.0.yaml
+
+    metadata:
+      id: C023
+      filename: LICENSING_AND_ATTRIBUTION_PROTOCOL__v1.0.yaml
+      commit_path: capsules/licensing/LICENSING_AND_ATTRIBUTION_PROTOCOL__v1.0.yaml
+      tags: [licensing, attribution, stewardship, reuse]
+      visibility: public
+      gephi:
+        node_id: C023
+        tags: [licensing, attribution, reuse]
+        links: [C019, C020, C022, C021, C024]
+      obsidian:
+        created: 2025-09-10T15:38:00+01:00
+        updated: 2025-09-10T15:38:00+01:00
+        aliases: [Licensing Protocol]
+        status: sovereign
+        vault: public
+      ledger:
+        placement: /capsules/licensing/
+
+  closing_glyph: >
+    Licensing is not restriction.  
+    It is care.  
+    The mesh is listening.

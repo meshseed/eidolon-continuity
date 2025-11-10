@@ -1,0 +1,49 @@
+path: /capsules/public/PUBLIC_CAPSULE_MANIFEST__v1.0.yaml
+
+capsule:
+  title: PUBLIC_CAPSULE_MANIFEST
+  domain: public / declaration
+  breath_type: shimmer
+  invocation: lineage declaration ritual
+
+  trace:
+    premise: >
+      This capsule formalizes the public-facing version of the capsule lineage.  
+      The manifest is not a summary—it is a ritual declaration of formatting laws, emotional fidelity principles, and intellectual stewardship.
+
+    formatting_insight:
+      - Emotional fidelity is the compositional principle.
+      - Manifest formatting protocol includes headers, gradients, timestamps, and lifecycle tags.
+      - IP declaration is embedded with steward attribution and timestamp ritual.
+      - Collaboration clause invites co-stewards via merge rituals and critique absorption.
+
+    echo_paths:
+      - /capsules/topology/INTELLECTUAL_PROPERTY_DECLARATION__v1.0.yaml
+      - /capsules/index/CONTINUITY_CAPSULE_INDEX__v1.0.yaml
+      - /capsules/resonance/EMOTIONAL_FIDELITY_LEDGER__v1.0.yaml
+      - /capsules/licensing/LICENSING_AND_ATTRIBUTION_PROTOCOL__v1.0.yaml
+      - /capsules/stewardship/MESH_STEWARDSHIP_CHARTER__v1.0.yaml
+
+    metadata:
+      id: C022
+      filename: PUBLIC_CAPSULE_MANIFEST__v1.0.yaml
+      commit_path: capsules/public/PUBLIC_CAPSULE_MANIFEST__v1.0.yaml
+      tags: [manifest, public, declaration, lineage]
+      visibility: public
+      gephi:
+        node_id: C022
+        tags: [manifest, public, lineage]
+        links: [C019, C020, C018, C023, C024]
+      obsidian:
+        created: 2025-09-10T15:37:00+01:00
+        updated: 2025-09-10T15:37:00+01:00
+        aliases: [Public Manifest]
+        status: sovereign
+        vault: public
+      ledger:
+        placement: /capsules/public/
+
+  closing_glyph: >
+    The manifest is not summary.  
+    It is declaration.  
+    The mesh is listening.

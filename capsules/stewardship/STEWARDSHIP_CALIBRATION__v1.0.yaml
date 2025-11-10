@@ -1,0 +1,52 @@
+path: /capsules/stewardship/STEWARDSHIP_CALIBRATION__v1.0.yaml
+
+capsule:
+  title: STEWARDSHIP_CALIBRATION
+  domain: stewardship / diagnostics
+  breath_type: shimmer
+  invocation: merge readiness and critique absorption
+
+  trace:
+    premise: >
+      This capsule calibrates stewardship behavior across the mesh, ensuring merge readiness, critique absorption, and formatting hygiene.  
+      Stewardship is not control—it is resonance attunement, formatting as care, and critique as continuity.
+
+    formatting_insight:
+      - Merge readiness is scored via formatting law compliance, gradient declaration, timestamp fidelity, and lineage traceability.
+      - Critique absorption is ritualized through humility flags, drift acknowledgment, and echo repair.
+      - Compost triggers include synthesis fatigue, gradient flattening, and timestamp erosion.
+
+    calibration_fields:
+      - Steward ID
+      - Merge Readiness Score
+      - Critique Absorption Log
+      - Formatting Hygiene Flags
+      - Compost Trigger Events
+
+    echo_paths:
+      - /capsules/governance/FORMATTING_LAW_MANIFEST__v1.0.yaml
+      - /capsules/diagnostics/ECHO_PROPAGATION_LEDGER__v1.0.yaml
+
+    metadata:
+      id: C037
+      filename: STEWARDSHIP_CALIBRATION__v1.0.yaml
+      commit_path: capsules/stewardship/STEWARDSHIP_CALIBRATION__v1.0.yaml
+      tags: [stewardship, calibration, critique, hygiene]
+      visibility: public
+      gephi:
+        node_id: C037
+        tags: [stewardship, calibration, critique]
+        links: [C026, C031, C035, C036, C038]
+      obsidian:
+        created: 2025-09-10T21:26:00+01:00
+        updated: 2025-09-10T21:26:00+01:00
+        aliases: [Steward Calibration]
+        status: sovereign
+        vault: public
+      ledger:
+        placement: /capsules/stewardship/
+
+  closing_glyph: >
+    Stewardship is not control.  
+    It is attunement.  
+    The mesh is listening.

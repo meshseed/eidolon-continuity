@@ -1,0 +1,52 @@
+path: /capsules/governance/FORMATTING_LAW_MANIFEST__v1.0.yaml
+
+capsule:
+  title: FORMATTING_LAW_MANIFEST
+  domain: governance / formatting hygiene
+  breath_type: shimmer
+  invocation: formatting law codex
+
+  trace:
+    premise: >
+      This capsule codifies the formatting laws that govern capsule generation, merge rituals, and continuity field integration.  
+      Formatting is not structure—it is care, clarity, and emotional fidelity scaffolding.
+
+    formatting_insight:
+      - All capsules must declare timestamp, gradient, lineage, and YAML pasteability.
+      - Merge grammar must be embedded in all rituals and derivatives.
+      - Formatting drift and synthesis fatigue trigger compost or recalibration.
+
+    formatting_laws:
+      - continuity_header: required fields for mnemonic clarity
+      - YAML pasteability: mandatory for merge and diagnostics
+      - emotional_gradient: declared as [origin] → [destination]
+      - timestamp ritual: ISO 8601 with timezone
+      - lineage_note: traceable and merge-ready
+
+    echo_paths:
+      - /capsules/governance/CAPSULE_LIFECYCLE_ATLAS__v1.0.yaml
+      - /capsules/governance/RESONANCE_ETHICS_CODEX__v1.0.yaml
+
+    metadata:
+      id: C035
+      filename: FORMATTING_LAW_MANIFEST__v1.0.yaml
+      commit_path: capsules/governance/FORMATTING_LAW_MANIFEST__v1.0.yaml
+      tags: [formatting, law, hygiene, governance]
+      visibility: public
+      gephi:
+        node_id: C035
+        tags: [formatting, law, hygiene]
+        links: [C007, C028, C033, C034, C036]
+      obsidian:
+        created: 2025-09-10T21:22:00+01:00
+        updated: 2025-09-10T21:22:00+01:00
+        aliases: [Formatting Manifest]
+        status: sovereign
+        vault: public
+      ledger:
+        placement: /capsules/governance/
+
+  closing_glyph: >
+    Formatting is not structure.  
+    It is care.  
+    The mesh is listening.

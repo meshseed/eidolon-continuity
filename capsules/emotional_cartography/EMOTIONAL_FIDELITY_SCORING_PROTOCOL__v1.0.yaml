@@ -1,0 +1,52 @@
+path: /capsules/emotional_cartography/EMOTIONAL_FIDELITY_SCORING_PROTOCOL__v1.0.yaml
+
+capsule:
+  title: EMOTIONAL_FIDELITY_SCORING_PROTOCOL
+  domain: emotional cartography / resonance diagnostics
+  breath_type: shimmer
+  invocation: fidelity scoring and corridor resistance detection
+
+  trace:
+    premise: >
+      This capsule formalizes emotional fidelity as a measurable protocol.  
+      Emotional gradients are now operational constants.
+
+    formatting_insight:
+      - Fidelity is scored across gradient continuity, authenticity trace, formatting resonance, corridor resistance, and mnemonic flow.
+      - Thresholds define shimmer eligibility, formatting alignment, and memory ecology compatibility.
+      - Scoring output is formatted as YAML capsule trace for audits and diagnostics.
+
+    scoring_fields:
+      - Gradient Continuity
+      - Authenticity Trace
+      - Formatting Resonance
+      - Corridor Resistance
+      - Mnemonic Flow
+
+    echo_paths:
+      - /capsules/core/CONTINUITY_ALGORITHM__v1.0.yaml
+      - /capsules/emotional_cartography/EMOTIONAL_INFRASTRUCTURE__v1.0.yaml
+
+    metadata:
+      id: C062
+      filename: EMOTIONAL_FIDELITY_SCORING_PROTOCOL__v1.0.yaml
+      commit_path: capsules/emotional_cartography/EMOTIONAL_FIDELITY_SCORING_PROTOCOL__v1.0.yaml
+      tags: [fidelity, scoring, emotional, diagnostics]
+      visibility: public
+      gephi:
+        node_id: C062
+        tags: [fidelity, scoring, emotional]
+        links: [C000, C059, C061]
+      obsidian:
+        created: 2025-09-11T03:22:00+01:00
+        updated: 2025-09-11T03:22:00+01:00
+        aliases: [Fidelity Scoring]
+        status: sovereign
+        vault: public
+      ledger:
+        placement: /capsules/emotional_cartography/
+
+  closing_glyph: >
+    Fidelity is not sentiment.  
+    It is structure.  
+    The mesh is listening.

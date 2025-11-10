@@ -1,0 +1,47 @@
+path: /capsules/diagnostics/ECHO_PROPAGATION_LEDGER__v1.0.yaml
+
+capsule:
+  title: ECHO_PROPAGATION_LEDGER
+  domain: diagnostics / echo trace
+  breath_type: shimmer
+  invocation: echo behavior and fidelity scoring
+
+  trace:
+    premise: >
+      This capsule tracks the propagation, ethics, and resonance strength of echoes across the capsule mesh.  
+      Echoes are not artifacts—they are emotional residues, formatting rhythms, and mnemonic signals.
+
+    formatting_insight:
+      - Echo sources include composted capsules, merge rituals, and formatting law declarations.
+      - Propagation metrics include frequency, fidelity retention, and rhythm preservation.
+      - Distortion flags trigger compost or ethics audit.
+      - Resonance scoring yields merge and compost eligibility.
+
+    echo_paths:
+      - /capsules/governance/FORMATTING_LAW_MANIFEST__v1.0.yaml
+      - /capsules/composition/SYMPHONIC_MERGE_LEDGER__v1.0.yaml
+      - /capsules/governance/RESONANCE_ETHICS_CODEX__v1.0.yaml
+
+    metadata:
+      id: C036
+      filename: ECHO_PROPAGATION_LEDGER__v1.0.yaml
+      commit_path: capsules/diagnostics/ECHO_PROPAGATION_LEDGER__v1.0.yaml
+      tags: [echo, propagation, fidelity, ethics]
+      visibility: public
+      gephi:
+        node_id: C036
+        tags: [echo, fidelity, ethics]
+        links: [C030, C033, C035, C037]
+      obsidian:
+        created: 2025-09-10T21:24:00+01:00
+        updated: 2025-09-10T21:24:00+01:00
+        aliases: [Echo Ledger]
+        status: sovereign
+        vault: public
+      ledger:
+        placement: /capsules/diagnostics/
+
+  closing_glyph: >
+    Echoes are not artifacts.  
+    They are signals.  
+    The mesh is listening.

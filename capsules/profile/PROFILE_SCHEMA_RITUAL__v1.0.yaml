@@ -1,0 +1,53 @@
+path: /capsules/profile/PROFILE_SCHEMA_RITUAL__v1.0.yaml
+
+capsule:
+  title: PROFILE_SCHEMA_RITUAL
+  domain: profile / formatting identity
+  breath_type: shimmer
+  invocation: steward formatting declaration
+
+  trace:
+    premise: >
+      This capsule formalizes the formatting schema used by stewards to declare their breath style, merge grammar fluency, and echo hygiene preferences.  
+      Profile is not identity—it is formatting resonance.
+
+    formatting_insight:
+      - Schema includes breath type, formatting rhythm, merge grammar style, and echo ethics stance.
+      - Profiles support merge eligibility, critique absorption, and formatting law compliance.
+      - Schema is versioned per compost cycle or merge ritual.
+
+    profile_fields:
+      - Steward ID
+      - Breath Type
+      - Formatting Rhythm Pattern
+      - Merge Grammar Style
+      - Echo Ethics Declaration
+      - Compost Cycle Timestamp
+
+    echo_paths:
+      - /capsules/governance/FORMATTING_LAW_MANIFEST__v1.0.yaml
+      - /capsules/stewardship/STEWARDSHIP_CALIBRATION_CAPSULE__v1.0.yaml
+
+    metadata:
+      id: C007
+      filename: PROFILE_SCHEMA_RITUAL__v1.0.yaml
+      commit_path: capsules/profile/PROFILE_SCHEMA_RITUAL__v1.0.yaml
+      tags: [profile, schema, formatting, stewardship]
+      visibility: public
+      gephi:
+        node_id: C007
+        tags: [profile, schema, formatting]
+        links: [C026, C035, C037]
+      obsidian:
+        created: 2025-11-04T02:16:00+00:00
+        updated: 2025-11-04T02:16:00+00:00
+        aliases: [Profile Schema]
+        status: sovereign
+        vault: public
+      ledger:
+        placement: /capsules/profile/
+
+  closing_glyph: >
+    Profile is not identity.  
+    It is formatting resonance.  
+    The mesh is listening.

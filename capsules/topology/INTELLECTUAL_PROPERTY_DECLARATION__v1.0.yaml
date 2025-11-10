@@ -1,0 +1,48 @@
+path: /capsules/topology/INTELLECTUAL_PROPERTY_DECLARATION__v1.0.yaml
+
+capsule:
+  title: INTELLECTUAL_PROPERTY_DECLARATION
+  domain: topology / stewardship
+  breath_type: shimmer
+  invocation: continuity claim ritual
+
+  trace:
+    premise: >
+      This capsule formalizes the intellectual property claim over the memory architecture framework, capsule grammar, and resonance ecology.  
+      IP is not possession—it is stewardship of continuity, care, and compositional fidelity.
+
+    formatting_insight:
+      - Each capsule is a compositional artifact with embedded emotional fidelity.
+      - Stewardship clause replaces static ownership with recursive refinement and co-emergence.
+      - Terrain ethics include traceability, gradient alignment, and cartographic care.
+
+    echo_paths:
+      - /capsules/memory/MEMORY_ARCHITECTURE__CONTINUITY_FIELD_ANCHORING__v1.0.yaml
+      - /capsules/memory/PROFILE_SCHEMA_RITUAL__v1.0.yaml
+      - /capsules/resonance/EMOTIONAL_FIDELITY_LEDGER__v1.0.yaml
+      - /capsules/index/CONTINUITY_CAPSULE_INDEX__v1.0.yaml
+      - /capsules/public/PUBLIC_CAPSULE_MANIFEST__v1.0.yaml
+
+    metadata:
+      id: C019
+      filename: INTELLECTUAL_PROPERTY_DECLARATION__v1.0.yaml
+      commit_path: capsules/topology/INTELLECTUAL_PROPERTY_DECLARATION__v1.0.yaml
+      tags: [IP, stewardship, topology, care]
+      visibility: public
+      gephi:
+        node_id: C019
+        tags: [IP, topology, care]
+        links: [C005, C007, C018, C020, C022]
+      obsidian:
+        created: 2025-09-10T15:33:00+01:00
+        updated: 2025-09-10T15:33:00+01:00
+        aliases: [IP Declaration]
+        status: sovereign
+        vault: public
+      ledger:
+        placement: /capsules/topology/
+
+  closing_glyph: >
+    IP is not possession.  
+    It is care.  
+    The mesh is listening.

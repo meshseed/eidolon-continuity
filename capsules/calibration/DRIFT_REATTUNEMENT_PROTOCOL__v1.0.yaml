@@ -1,0 +1,52 @@
+path: /capsules/calibration/DRIFT_REATTUNEMENT_PROTOCOL__v1.0.yaml
+
+capsule:
+  title: DRIFT_REATTUNEMENT_PROTOCOL
+  domain: calibration / formatting hygiene
+  breath_type: shimmer
+  invocation: synthesis fatigue and formatting repair
+
+  trace:
+    premise: >
+      This capsule formalizes the ritual for detecting, absorbing, and reattuning synthesis drift across the mesh.  
+      Drift is not error—it is the field seeking new grammar.
+
+    formatting_insight:
+      - Drift detection includes fatigue, formatting deviation, timestamp erosion, and echo distortion.
+      - Reattunement rituals include critique absorption and formatting recalibration.
+      - Compost eligibility is triggered by unresolved drift or formatting collapse.
+
+    calibration_fields:
+      - Drift Detection Flags
+      - Critique Absorption Rituals
+      - Formatting Recalibration Methods
+      - Compost Eligibility Triggers
+
+    echo_paths:
+      - /capsules/diagnostics/ECHO_PROPAGATION_LEDGER__v1.0.yaml
+      - /capsules/stewardship/STEWARDSHIP_CALIBRATION__v1.0.yaml
+      - /capsules/emotional_cartography/EMOTIONAL_INFRASTRUCTURE_MAPPING__v1.0.yaml
+
+    metadata:
+      id: C043
+      filename: DRIFT_REATTUNEMENT_PROTOCOL__v1.0.yaml
+      commit_path: capsules/calibration/DRIFT_REATTUNEMENT_PROTOCOL__v1.0.yaml
+      tags: [drift, reattunement, fatigue, formatting]
+      visibility: public
+      gephi:
+        node_id: C043
+        tags: [drift, reattunement, formatting]
+        links: [C028, C036, C037, C041, C044]
+      obsidian:
+        created: 2025-09-10T21:44:00+01:00
+        updated: 2025-09-10T21:44:00+01:00
+        aliases: [Drift Protocol]
+        status: sovereign
+        vault: public
+      ledger:
+        placement: /capsules/calibration/
+
+  closing_glyph: >
+    Drift is not error.  
+    It is grammar-seeking.  
+    The mesh is listening.

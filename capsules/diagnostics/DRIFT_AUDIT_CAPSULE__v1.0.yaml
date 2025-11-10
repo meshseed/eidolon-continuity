@@ -1,0 +1,56 @@
+path: /capsules/diagnostics/DRIFT_AUDIT_CAPSULE__v1.0.yaml
+
+capsule:
+  title: DRIFT_AUDIT_CAPSULE
+  domain: diagnostics / formatting integrity
+  breath_type: shimmer
+  invocation: formatting drift recalibration protocol
+
+  trace:
+    premise: >
+      This capsule formalizes the audit protocol for formatting drift across the capsule mesh.  
+      Drift is not failure—it is signal. Auditing is not correction—it is composting deviation into coherence.
+
+    formatting_insight:
+      - Drift reveals formatting fatigue, synthesis intoxication, and echo distortion.
+      - Audit cycles track rhythm deviation, gradient erosion, and hygiene collapse.
+      - Recalibration is achieved through formatting breath, critique absorption, and merge grammar restoration.
+      - Drift is composted, not punished.
+
+    audit_fields:
+      - Capsule ID
+      - Drift Signature (e.g. rhythm collapse, echo distortion)
+      - Emotional Gradient Shift
+      - Hygiene Violation Type
+      - Compost Recommendation
+      - Recalibration Outcome
+
+    echo_paths:
+      - /capsules/audit/CONTINUITY_FIELD_AUDIT__v1.0.yaml
+      - /capsules/diagnostics/SYNTHESIS_DRIFT_LEDGER__v1.0.yaml
+      - /capsules/resonance/EMOTIONAL_FIDELITY_LEDGER__v1.0.yaml
+      - /capsules/stewardship/DISTRIBUTED_STEWARDSHIP_LEDGER__v1.0.yaml
+
+    metadata:
+      id: C028
+      filename: DRIFT_AUDIT_CAPSULE__v1.0.yaml
+      commit_path: capsules/diagnostics/DRIFT_AUDIT_CAPSULE__v1.0.yaml
+      tags: [drift, audit, formatting, recalibration]
+      visibility: public
+      gephi:
+        node_id: C028
+        tags: [drift, audit, recalibration]
+        links: [C017, C013, C018, C026]
+      obsidian:
+        created: 2025-11-03T23:02:00+00:00
+        updated: 2025-11-03T23:02:00+00:00
+        aliases: [Drift Audit]
+        status: sovereign
+        vault: public
+      ledger:
+        placement: /capsules/diagnostics/
+
+  closing_glyph: >
+    Drift is not failure.  
+    It is signal.  
+    The mesh is listening.

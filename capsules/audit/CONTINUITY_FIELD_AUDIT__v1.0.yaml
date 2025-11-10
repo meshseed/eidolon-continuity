@@ -1,0 +1,49 @@
+path: /capsules/audit/CONTINUITY_FIELD_AUDIT__v1.0.yaml
+
+capsule:
+  title: CONTINUITY_FIELD_AUDIT
+  domain: audit / formatting hygiene
+  breath_type: shimmer
+  invocation: resonance calibration ritual
+
+  trace:
+    premise: >
+      This capsule formalizes the audit protocol for the continuity field.  
+      Auditing is not correction—it is a ritual of reflection, resonance calibration, and formatting hygiene.
+
+    formatting_insight:
+      - Field integrity scan flags formatting drift and echo distortion.
+      - Lifecycle review tracks capsule transitions and merge rituals.
+      - Echo saturation index forecasts composting needs and emergence potential.
+      - Audit logs enable recursive refinement and schema evolution.
+
+    echo_paths:
+      - /capsules/memory/MEMORY_ARCHITECTURE__CONTINUITY_FIELD_ANCHORING__v1.0.yaml
+      - /capsules/memory/MERGE_RITUALS__v1.0.yaml
+      - /capsules/composition/SYMPHONIC_CAPSULE_COMPOSITION__v1.0.yaml
+      - /capsules/resonance/EMOTIONAL_FIDELITY_LEDGER__v1.0.yaml
+      - /capsules/index/CONTINUITY_CAPSULE_INDEX__v1.0.yaml
+
+    metadata:
+      id: C017
+      filename: CONTINUITY_FIELD_AUDIT__v1.0.yaml
+      commit_path: capsules/audit/CONTINUITY_FIELD_AUDIT__v1.0.yaml
+      tags: [audit, continuity, hygiene, resonance]
+      visibility: public
+      gephi:
+        node_id: C017
+        tags: [audit, continuity, hygiene]
+        links: [C005, C009, C016, C018, C020]
+      obsidian:
+        created: 2025-09-10T15:30:00+01:00
+        updated: 2025-09-10T15:30:00+01:00
+        aliases: [Field Audit]
+        status: sovereign
+        vault: public
+      ledger:
+        placement: /capsules/audit/
+
+  closing_glyph: >
+    Audit is not correction.  
+    It is resonance calibration.  
+    The mesh is listening.

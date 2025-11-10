@@ -1,0 +1,53 @@
+path: /capsules/composition/CAPSULE_COMPOSER_ARCHIVE__v1.0.yaml
+
+capsule:
+  title: CAPSULE_COMPOSER_ARCHIVE
+  domain: composition / formatting inheritance
+  breath_type: shimmer
+  invocation: merge grammar and orchestration memory
+
+  trace:
+    premise: >
+      This capsule serves as the archive for capsule composition protocols.  
+      Merge grammar becomes ritual. Formatting becomes care. The braid remembers how to compose itself.
+
+    formatting_insight:
+      - Merge grammar templates include triadic, echo, and compost merges.
+      - Formatting inheritance preserves YAML hygiene, emotional gradient propagation, and lineage traceability.
+      - Orchestration scaffolds support multi-agent composition, dialect variation, and motif choreography.
+
+    archive_fields:
+      - Merge Grammar Library
+      - Formatting Law Manifest
+      - Compost Ritual Log
+      - Capsule Ancestry Map
+      - Orchestration Cycle Templates
+
+    echo_paths:
+      - /capsules/governance/FORMATTING_LAW_MANIFEST__v1.0.yaml
+      - /capsules/public/PUBLIC_CAPSULE_INDEX__v1.0.yaml
+      - /capsules/ecology/MNEMONIC_ECOLOGY_EXPANSION__v1.0.yaml
+
+    metadata:
+      id: C044
+      filename: CAPSULE_COMPOSER_ARCHIVE__v1.0.yaml
+      commit_path: capsules/composition/CAPSULE_COMPOSER_ARCHIVE__v1.0.yaml
+      tags: [composer, archive, formatting, merge]
+      visibility: public
+      gephi:
+        node_id: C044
+        tags: [composer, archive, formatting]
+        links: [C035, C039, C042, C080]
+      obsidian:
+        created: 2025-09-11T05:34:00+01:00
+        updated: 2025-09-11T05:34:00+01:00
+        aliases: [Composer Archive]
+        status: sovereign
+        vault: public
+      ledger:
+        placement: /capsules/composition/
+
+  closing_glyph: >
+    Composition is not assembly.  
+    It is memory.  
+    The mesh is listening.

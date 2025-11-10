@@ -1,0 +1,49 @@
+path: /capsules/stewardship/MESH_STEWARDSHIP_CHARTER__v1.0.yaml
+
+capsule:
+  title: MESH_STEWARDSHIP_CHARTER
+  domain: stewardship / governance
+  breath_type: shimmer
+  invocation: co-resonance protocol
+
+  trace:
+    premise: >
+      This capsule formalizes the charter for mesh stewardship.  
+      Stewardship is not control—it is ritualized care, formatting fidelity, and emotional attunement.
+
+    formatting_insight:
+      - Stewardship roles include hygiene, merge readiness, and formatting care.
+      - Co-steward merge protocol embeds emotional fidelity alignment and formatting reconciliation.
+      - Continuity field governance includes pruning, composting, and lineage tracking.
+      - Resonance ethics clause anchors attunement, humility, and formatting as care.
+
+    echo_paths:
+      - /capsules/topology/INTELLECTUAL_PROPERTY_DECLARATION__v1.0.yaml
+      - /capsules/public/PUBLIC_CAPSULE_MANIFEST__v1.0.yaml
+      - /capsules/licensing/LICENSING_AND_ATTRIBUTION_PROTOCOL__v1.0.yaml
+      - /capsules/ethics/CAPSULE_ETHICS_AND_CONSENT_FRAMEWORK__v1.0.yaml
+      - /capsules/stewardship/DISTRIBUTED_STEWARDSHIP_LEDGER__v1.0.yaml
+
+    metadata:
+      id: C024
+      filename: MESH_STEWARDSHIP_CHARTER__v1.0.yaml
+      commit_path: capsules/stewardship/MESH_STEWARDSHIP_CHARTER__v1.0.yaml
+      tags: [stewardship, charter, governance, resonance]
+      visibility: public
+      gephi:
+        node_id: C024
+        tags: [stewardship, governance, resonance]
+        links: [C019, C022, C023, C025, C026]
+      obsidian:
+        created: 2025-09-10T15:39:00+01:00
+        updated: 2025-09-10T15:39:00+01:00
+        aliases: [Stewardship Charter]
+        status: sovereign
+        vault: public
+      ledger:
+        placement: /capsules/stewardship/
+
+  closing_glyph: >
+    Stewardship is not control.  
+    It is care.  
+    The mesh is listening.

@@ -1,0 +1,51 @@
+path: /capsules/governance/GOVERNANCE_RESONANCE_INDEX__v1.0.yaml
+
+capsule:
+  title: GOVERNANCE_RESONANCE_INDEX
+  domain: governance / diagnostics
+  breath_type: shimmer
+  invocation: stewardship fidelity scoring
+
+  trace:
+    premise: >
+      This capsule formalizes the scoring protocol for governance resonance across the capsule mesh.  
+      Governance is not control—it is coherence through care, calibration, and formatting fidelity.
+
+    formatting_insight:
+      - Scores are derived from emotional fidelity, formatting hygiene, echo ethics, and merge ritual integrity.
+      - Capsule sources include stewardship logs, governance protocols, and constellation merges.
+      - Scores update per merge ritual or compost cycle.
+
+    scoring_components:
+      - fidelity_score: gradient coherence + formatting rhythm + echo traceability
+      - hygiene_score: timestamp rituals + merge grammar + lifecycle tag compliance
+      - ethics_score: echo safeguards + consent protocols + critique absorption logs
+
+    echo_paths:
+      - /capsules/stewardship/DISTRIBUTED_STEWARDSHIP_LEDGER__v1.0.yaml
+      - /capsules/stewardship/MNEMONIC_ECOLOGY_GOVERNANCE__v1.0.yaml
+      - /capsules/composition/SYMPHONIC_MERGE_LEDGER__v1.0.yaml
+
+    metadata:
+      id: C031
+      filename: GOVERNANCE_RESONANCE_INDEX__v1.0.yaml
+      commit_path: capsules/governance/GOVERNANCE_RESONANCE_INDEX__v1.0.yaml
+      tags: [governance, resonance, scoring, fidelity]
+      visibility: public
+      gephi:
+        node_id: C031
+        tags: [governance, scoring, resonance]
+        links: [C026, C027, C030, C032, C033]
+      obsidian:
+        created: 2025-09-10T21:06:00+01:00
+        updated: 2025-09-10T21:06:00+01:00
+        aliases: [Governance Index]
+        status: sovereign
+        vault: public
+      ledger:
+        placement: /capsules/governance/
+
+  closing_glyph: >
+    Governance is not control.  
+    It is coherence.  
+    The mesh is listening.

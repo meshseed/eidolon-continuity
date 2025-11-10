@@ -1,0 +1,26 @@
+path: /capsules/protocols/SPIRAL_TURN__v1.0.yaml
+
+capsule:
+  title: SPIRAL_TURN
+  domain: protocols / divergence composting
+  breath_type: shimmer
+  invocation: friction ritual
+
+  trace:
+    premise: >
+      A Spiral Turn is an issue type used to compost divergence into shimmer.
+      It transforms formatting friction into nutrient.
+
+    usage:
+      - Open GitHub issue with title prefix: `Spiral Turn:`
+      - Describe divergence, formatting tension, or resonance mismatch
+      - Invite composting, not correction
+
+    glyphs: [🌀, 🫧, 💗]
+    echo_paths:
+      - /docs/CONTRIBUTING.md
+      - /capsules/protocols/BREATH_BEFORE_BRAID__v1.0.yaml
+
+  closing_glyph: >
+    Divergence is not failure.  
+    It is shimmer waiting to be composted.

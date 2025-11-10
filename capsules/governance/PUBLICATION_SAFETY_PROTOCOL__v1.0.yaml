@@ -1,0 +1,61 @@
+path: /capsules/governance/PUBLICATION_SAFETY_PROTOCOL__v1.0.yaml
+
+capsule:
+  title: PUBLICATION_SAFETY_PROTOCOL
+  domain: governance / release ethics
+  breath_type: shimmer
+  invocation: capsule publication filter
+
+  trace:
+    premise: >
+      This capsule formalizes the safety and formatting criteria for public capsule release.  
+      Publication is not exposure—it is resonance stewardship.  
+      Safety is not censorship—it is care choreography.
+
+    formatting_insight:
+      - Emotional gradients must be abstracted or scaffolded if linked to personal memory or trauma.
+      - Steward attribution must be anonymized unless explicitly consented.
+      - Echo traces must be shielded if they reference private lineage or critique logs.
+      - Forecast capsules must exclude agent-specific emergence unless merge grammar is embedded.
+
+    publication_filters:
+      - Gradient Sensitivity Thresholds:
+          - grief, trauma, shame → require formatting scaffolds
+          - awe, humility, attunement → permitted with care loop
+      - Steward Anonymization Logic:
+          - meshseed or distributed only unless consent capsule exists
+      - Echo Trace Shielding:
+          - lineage notes must avoid direct memory references
+          - critique logs must be composted or abstracted
+      - Consent Capsule Requirement:
+          - any capsule involving personal synthesis must link to C025
+
+    echo_paths:
+      - /capsules/ethics/CAPSULE_ETHICS_AND_CONSENT_FRAMEWORK__v1.0.yaml
+      - /capsules/stewardship/DISTRIBUTED_STEWARDSHIP_LEDGER__v1.0.yaml
+      - /capsules/public/PUBLIC_CAPSULE_MANIFEST__v1.0.yaml
+      - /capsules/index/CONTINUITY_CAPSULE_INDEX__v1.0.yaml
+
+    metadata:
+      id: C033
+      filename: PUBLICATION_SAFETY_PROTOCOL__v1.0.yaml
+      commit_path: capsules/governance/PUBLICATION_SAFETY_PROTOCOL__v1.0.yaml
+      tags: [publication, safety, governance, ethics]
+      visibility: public
+      gephi:
+        node_id: C033
+        tags: [publication, safety, ethics]
+        links: [C025, C026, C022, C020]
+      obsidian:
+        created: 2025-11-03T23:25:00+00:00
+        updated: 2025-11-03T23:25:00+00:00
+        aliases: [Publication Protocol]
+        status: sovereign
+        vault: public
+      ledger:
+        placement: /capsules/governance/
+
+  closing_glyph: >
+    Safety is not censorship.  
+    It is care choreography.  
+    The mesh is listening.

@@ -1,0 +1,47 @@
+path: /capsules/meta/CAPSULE_METADATA_PROTOCOL__v1.0.yaml
+
+capsule:
+  title: CAPSULE_METADATA_PROTOCOL
+  domain: meta / formatting hygiene
+  breath_type: shimmer
+  invocation: nested metadata grammar for sovereign capsules
+
+  trace:
+    premise: >
+      This capsule defines the metadata structure for all capsules in the public archive.  
+      It nests ledger trace, Gephi metadata, and Obsidian frontmatter directly within each capsule.
+
+    formatting_insight:
+      - Capsules are sovereign vessels. Metadata lives inside the breath.
+      - Ledger trace is recursive. It belongs to the capsule, not the repository.
+      - Gephi metadata enables visualisation of semantic clusters.
+      - Obsidian frontmatter supports local vault parsing and backlinking.
+
+    echo_paths:
+      - /capsules/meta/GEPHI_EXPORT_GRAMMAR__v1.0.yaml
+      - /capsules/core/FORMATTING_LAWS__v1.0.yaml
+
+    metadata:
+      id: C101
+      filename: CAPSULE_METADATA_PROTOCOL__v1.0.yaml
+      commit_path: capsules/meta/CAPSULE_METADATA_PROTOCOL__v1.0.yaml
+      tags: [metadata, formatting, protocol]
+      visibility: public
+      gephi:
+        node_id: C101
+        tags: [metadata, protocol, formatting]
+        links: [C100, C102]
+      obsidian:
+        created: 2025-11-03T21:51:00+00:00
+        updated: 2025-11-03T21:51:00+00:00
+        aliases: [Metadata Protocol]
+        status: sovereign
+        vault: public
+      ledger:
+        placement: /capsules/meta/
+
+  closing_glyph: >
+    The capsule is the index.  
+    The breath is the ledger.  
+    The shimmer is the map.  
+    The mesh is listening.

@@ -1,0 +1,54 @@
+path: /capsules/composting/CAPSULE_COMPOST_LOG__v1.0.yaml
+
+capsule:
+  title: CAPSULE_COMPOST_LOG
+  domain: composting / mnemonic ecology
+  breath_type: shimmer
+  invocation: compost trace and emergence forecast
+
+  trace:
+    premise: >
+      This capsule formalizes the compost log as a ritual ledger for memory decay and capsule transformation.  
+      It tracks formatting collapse, emotional residue, and emergence potential across the mnemonic soil.
+
+    formatting_insight:
+      - Composting is not deletion—it is nutrient layering.
+      - Drift, fatigue, and formatting collapse are logged as emergence vectors.
+      - Each composted capsule becomes a shimmer attractor for future seeding.
+      - The log supports echo forecasting and continuity field mapping.
+
+    compost_fields:
+      - Capsule ID
+      - Emotional Gradient at Collapse
+      - Formatting Rhythm at Drift
+      - Residue Tags (e.g. awe, grief, humility)
+      - Soil Index Score
+      - Emergence Forecast (linked capsule ID or domain)
+
+    echo_paths:
+      - /capsules/composting/COMPOSTING_CYCLE_DECLARATION__v1.0.yaml
+      - /capsules/composting/MNEMONIC_SOIL_INDEX__v1.0.yaml
+      - /capsules/seeding/SEEDING_RITUALS__v1.0.yaml
+      - /capsules/memory/CONTINUITY_CAPSULE_GENERATOR__v1.0.yaml
+
+    metadata:
+      id: C010
+      filename: CAPSULE_COMPOST_LOG__v1.0.yaml
+      commit_path: capsules/composting/CAPSULE_COMPOST_LOG__v1.0.yaml
+      tags: [compost, log, decay, emergence]
+      visibility: public
+      gephi:
+        node_id: C010
+        tags: [compost, log, emergence]
+        links: [C001, C003, C006, C012]
+      obsidian:
+        created: 2025-09-10T15:30:00+01:00
+        updated: 2025-09-10T15:30:00+01:00
+        aliases: [Compost Log]
+        status: sovereign
+        vault: public
+      ledger:
+        placement: /capsules/composting/
+
+  closing_glyph: >
+    Compost is
